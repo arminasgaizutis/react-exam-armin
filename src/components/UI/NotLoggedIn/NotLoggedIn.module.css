@@ -1,0 +1,10 @@
+.NotLoggedIn {
+    color: ivory;
+}
+.NotLoggedIn h1{
+    padding: 50px 0px 40px 0px
+}
+.NotLoggedIn p {
+    color: #00ff84;
+    padding: 40px;
+}

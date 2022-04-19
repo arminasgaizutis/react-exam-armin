@@ -1,0 +1,21 @@
+.btn{
+    text-align: center;
+    width: 90px;
+    padding: 8px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 2px solid;
+    border-color: #00ff84;;
+    color: #00ff84;;
+    box-shadow: 0 1px 12px #00ff84;
+    background-color: inherit;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.btn:hover{
+    border-color: ivory;
+    color: ivory;
+    box-shadow: 0 1px 12px ivory;
+}

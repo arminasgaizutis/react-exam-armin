@@ -1,0 +1,36 @@
+.img{
+    height: 60px;
+    padding: 5px;
+}
+  
+.header{
+  background-color: #002333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:  20px 50px;
+}
+
+.navLinks{
+  display: flex;
+  column-gap: 20px;  
+
+}
+
+.navLinks > a{
+  text-align: center;
+  color: #00ff84;
+  width: 70px;
+  padding: 10px;
+  border-radius: 10px;
+  outline-style: groove;
+  outline-width: 2px;
+  outline-color:  ivory ;
+  text-decoration: none;
+}
+
+.navLinks > a:hover {
+  outline-color: #00ff84;
+  color:  ivory;
+  box-shadow: 0 1px 12px #00ff84;
+}
